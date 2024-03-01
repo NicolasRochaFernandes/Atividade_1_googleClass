@@ -1,1 +1,8 @@
-head
+    #idnome{
+        width: 100px;
+        height: 20px;
+    }
+    #X{
+        background-color: black;
+        color: white;
+    }
