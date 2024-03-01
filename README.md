@@ -23,4 +23,4 @@ Lista de tarefas
 - [x] Criamos o nosso readme.
 
 Link
-[Site do projeto](https://ifc.edu.br/)
+[Site do projeto](https://nicolasrochafernandes.github.io/Atividade_1_googleClass/)
